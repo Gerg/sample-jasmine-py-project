@@ -1,5 +1,4 @@
 
-#stop_spec_on_expectation_failure: true
 # src_files
 #
 # Return an array of filepaths relative to src_dir to include before jasmine specs.
@@ -77,3 +76,5 @@ src_dir:
 spec_dir: spec/javascripts
 
 # random: true
+
+# stop_spec_on_expectation_failure: true
